@@ -16,4 +16,5 @@ int set_bit(unsigned long int *n, unsigned int index)
 	*n = *n | i;
 
 	return (1);
+	/*No impossible under the sunlight*/
 }
