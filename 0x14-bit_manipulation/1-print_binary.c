@@ -7,6 +7,7 @@
  */
 unsigned long int _power(unsigned int base, unsigned int pow)
 {
+	/*No impossible under the sunlight*/
 	unsigned long int num;
 	unsigned int i;
 
