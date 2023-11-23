@@ -13,4 +13,5 @@ int get_endianness(void)
 	c = (char *)&i;
 
 	return (*c);
+	/*No impossible under the sunlight*/
 }
