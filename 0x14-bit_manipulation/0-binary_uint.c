@@ -26,4 +26,5 @@ unsigned int binary_to_uint(const char *b)
 			j += 1;
 	}
 	return (j);
+	/*No impossible under the sunlight*/
 }
