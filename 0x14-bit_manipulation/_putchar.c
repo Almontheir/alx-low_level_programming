@@ -7,7 +7,7 @@
 
  * @c: The character to print
 
- *keep going on 
+ *
 
  * Return: On success 1.
 
